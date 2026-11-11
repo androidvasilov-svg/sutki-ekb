@@ -1,0 +1,4 @@
+:HL["/sutki-ekb/_next/static/chunks/06e4vm87qsd98.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
+0:{"b":"lU5ra1lErl5vE53Hd144Q","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
