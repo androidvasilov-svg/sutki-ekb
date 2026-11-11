@@ -5,4 +5,4 @@
 :HL["/sutki-ekb/_next/static/media/b0e156020fd1d73f-s.p.3jppgd0xzx-0d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/sutki-ekb/apartments/garinskiy-25/01.webp","image",{"fetchPriority":"high"}]
 1:[["children",{"s":"__PAGE__","h":128}]]
-0:{"b":"ycaFW32J81xHOp2RyBTcF","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"pPGC4hNqu_nyOBH3PDWd7","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
