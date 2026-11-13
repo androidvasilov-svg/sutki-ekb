@@ -1,4 +1,4 @@
-:HL["/sutki-ekb/_next/static/chunks/0fakj7aye6-ot.css","style"]
+:HL["/sutki-ekb/_next/static/chunks/0zute25kz8r_p.css","style"]
 :HL["/sutki-ekb/_next/static/media/276a8f4fe816cb6b-s.p.2v2sz4qlut9s1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/sutki-ekb/_next/static/media/82450a180bcad83c-s.p.0p-wng2nn8o-p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/sutki-ekb/_next/static/media/9d036f80216c14ee-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -6,4 +6,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"laguna","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"kvartiry","h":131136,"c":"$Q2"}]]
-0:{"b":"pPGC4hNqu_nyOBH3PDWd7","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"lX2PT-YHPsbkC2--yrpo-","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
