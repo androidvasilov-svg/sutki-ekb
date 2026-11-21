@@ -1,8 +1,2 @@
 User-agent: *
-Allow: /
-
-User-agent: Yandex
-Allow: /
-Clean-param: in&out&g
-
-Sitemap: https://uralsutki.ru/sitemap.xml
+Disallow: /
